@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jasz Garden Shop</title>
+  <style>
+    body { font-family: sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
+    header { background: #46a049; color: white; padding: 20px; text-align: center; }
+    .container { max-width: 800px; margin: 20px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    .product { border-bottom: 1px solid #ddd; padding: 10px 0; }
+    .product h2 { margin: 0; }
+    .qr img { width: 200px; border: 1px solid #ccc; border-radius: 6px; }
+    .contact a { display: inline-block; margin-right: 10px; color: #46a049; text-decoration: none; font-weight: bold; }
+    footer { text-align: center; padding: 20px; font-size: 14px; color: #888; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌱 Jasz Garden Shop</h1>
+    <p>Buy Grow a Garden (Roblox) items – Safe & Easy</p>
+  </header>  <div class="container">
+    <div class="product">
+      <h2>🦝 Raccoon</h2>
+      <p>Price: <strong>RM16</strong></p>
+      <p>Stock: <strong>200</strong></p>
+    </div><h3>💳 How to Pay</h3>
+<p>Scan the QR code below using:</p>
+<ul>
+  <li>✅ Touch 'n Go eWallet</li>
+  <li>✅ Any bank app (via DuitNow QR)</li>
+</ul>
+<div class="qr">
+  <img src="tng-qr.png" alt="Touch n Go QR Code" />
+</div>
+<p><strong>Receiver:</strong> Jason Chew Sheng Jie</p>
+
+<h3>📩 After Payment</h3>
+<ol>
+  <li>Take a screenshot of your payment</li>
+  <li>Send to: <br />
+    <span class="contact">
+      <a href="https://discord.com/users/jaszhurts">Discord: jaszhurts</a>
+      <a href="https://t.me/jashaae">Telegram: @jashaae</a>
+    </span>
+  </li>
+  <li>Wait for delivery in Grow a Garden</li>
+</ol>
+
+  </div>  <footer>
+    &copy; 2025 Jasz Garden Shop. All rights reserved.
+  </footer>
+</body>
+</html>
